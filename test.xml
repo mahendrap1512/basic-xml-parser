@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<main>
+    <batch>
+        B9
+    </batch>
+
+    <teacher>
+        <name>Mahendra Patel</name>
+        <enrol>
+            16103086
+        </enrol>
+    </teacher>
+    <student>
+         <name>
+             Pushan Gupta
+        </name>
+        <enrol>
+            16103067
+        </enrol>
+    </student>
+    <student>
+        <name>Jasmine Kaur
+        </name>
+        <enrol>16103176</enrol>
+    </student>
+    <student>
+        <name>
+            Ayush Jain
+        </name>
+        <enrol>
+            16103016
+        </enrol>
+    </student>
+</main>
